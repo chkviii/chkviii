@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Current interest:
-##Network
+### Current interest:
+#### Network
 - FRP
 - VPN
-##Coding
+#### Coding
 - Java
 - C with Keli
-##Algorithm
+#### Algorithm
 - Deep learning
-- Time Series Prediction
+- Time Series prediction
 
-###Working on...
+#### Working on...
 - A Bluetooth audio hub
 
