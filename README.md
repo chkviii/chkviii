@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###Current interest:
+##Network
+- FRP
+- VPN
+##Coding
+- Java
+- C with Keli
+##Algorithm
+- Deep learning
+- Time Series Prediction
+
+###Working on...
+- A Bluetooth audio hub
+
